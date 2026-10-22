@@ -3,5 +3,5 @@
 // Do not use secret keys or service_role keys.
 window.VH_SUPABASE_CONFIG = {
   url: "https://cokjkbmvbwwahxwfgkhy.supabase.co",
-  key: "PASTE_YOUR_SB_PUBLISHABLE_KEY_HERE"
+  key: "sb_publishable_28_yQRZQIQHeYderv8fUbQ_jA4BhHyw"
 };
